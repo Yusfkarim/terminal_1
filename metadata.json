@@ -1,0 +1,6 @@
+{
+  "name": "ROOT Terminal",
+  "description": "تێرمیناڵی پێشکەوتووی سێرڤەر بۆ جێبەجێکردنی فەرمانەکان و بەڕێوەبردنی فایلەکان و سێرڤەر - ROOT Terminal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
